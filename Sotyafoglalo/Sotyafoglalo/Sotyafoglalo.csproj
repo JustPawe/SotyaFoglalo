@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7870D051-CFDC-4946-B171-D5A3B83BB08F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sotyafoglalo</RootNamespace>
+    <AssemblyName>Sotyafoglalo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bevitel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bevitel.Designer.cs">
+      <DependentUpon>Bevitel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlForm.Designer.cs">
+      <DependentUpon>ControlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kerdesek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kerdesek.Designer.cs">
+      <DependentUpon>Kerdesek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tippelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tippelos.Designer.cs">
+      <DependentUpon>Tippelos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bevitel.resx">
+      <DependentUpon>Bevitel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlForm.resx">
+      <DependentUpon>ControlForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kerdesek.resx">
+      <DependentUpon>Kerdesek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tippelos.resx">
+      <DependentUpon>Tippelos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map basics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map basics1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map basics2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablafekvouj2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\csapat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kekvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kek400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kek300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piros300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piros400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirosvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sargavar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarga400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarga300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rozsavar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rozsa400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rozsa300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

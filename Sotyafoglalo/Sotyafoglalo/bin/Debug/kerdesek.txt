@@ -1,0 +1,2 @@
+﻿1;Mi Hozé bácsi teljes neve?;Szűcs József;Hozé Ármándó;Szűcs Hozé;Szűcs Ármándó
+2;Kik készítették a Sotyafoglalót?;A táborépítők;Hozé bácsi egyedül;Az Illuminati;Egy cég akinek ezért sokat fizettünk 

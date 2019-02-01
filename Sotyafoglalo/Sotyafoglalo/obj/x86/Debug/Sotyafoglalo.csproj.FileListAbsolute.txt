@@ -1,0 +1,119 @@
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Sotya\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+C:\Users\reken\Desktop\foglalo\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+d:\Sotya\foglalo2\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Working Backup 04.06 23_01\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\asd\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+d:\Sotya\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.Cache
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+d:\Sotya\Sotyafoglalo_hiba\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+C:\Users\reken\Desktop\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\bin\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Bevitel.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.ControlForm.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.mainLayout.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Kerdesek.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Properties.Resources.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.Tippelos.resources
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.GenerateResource.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.exe
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.pdb
+D:\Dokumentumok\Projects\VSC#\Sotyafoglaló\0501\Sotyafoglalo\Sotyafoglalo\obj\x86\Debug\Sotyafoglalo.csprojAssemblyReference.cache
